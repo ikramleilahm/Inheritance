@@ -8,3 +8,8 @@ Class {
 Forme >> area [
 	^ 'Area is not defined for a generic shape'.
 ]
+
+{ #category : #'as yet unclassified' }
+Forme >> descript [
+^ 'This is a geometric shape'.
+]
