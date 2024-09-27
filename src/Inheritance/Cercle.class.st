@@ -20,6 +20,6 @@ Cercle >> descript [
 
 { #category : #accessing }
 Cercle >> radius: aRadius [
-    radius := aRadius.
+    radius := aRadius -2
 
 ]
